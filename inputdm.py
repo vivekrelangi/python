@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+pi=float(input("Enter pi value:"))
+print("Hi "+name)
+print("Your age is "+str(age))
+print("Pi value is "+str(pi))
